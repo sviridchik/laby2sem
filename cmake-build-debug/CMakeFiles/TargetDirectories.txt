@@ -1,0 +1,3 @@
+/Users/victoriasviridchik/CLionProjects/lab2task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/victoriasviridchik/CLionProjects/lab2task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/victoriasviridchik/CLionProjects/lab2task1/cmake-build-debug/CMakeFiles/lab2task1.dir
