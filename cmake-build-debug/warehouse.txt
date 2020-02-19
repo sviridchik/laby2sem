@@ -1,0 +1,1 @@
+Name of product: peaches  Amount of peaches:  12.0000   Price for one peaches:  1.0000
